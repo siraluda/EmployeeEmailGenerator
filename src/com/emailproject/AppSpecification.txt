@@ -1,0 +1,7 @@
+Email Application should do the follwoing:
+
+1. Generate an email in the format: firstname.lastname@department.company.com
+2. Determine the department, if none, leave blank.
+3. Generate a random string for a new password.
+4. Have set methods to change the password, mailbox capacity, and define an alternative email address.
+5. Have get methods to display employee information such as name, email, mailbox capacity.
